@@ -9,4 +9,5 @@ Assim como a implementação, a velocidade de execução entre esses algoritmos 
 ### Implementações e discussões sobre os algoritmos
 
 [BubbleSort](./bubblesort/BubbleSort.md)
+
 [QuickSort](./quicksort/QuickSort.md)
