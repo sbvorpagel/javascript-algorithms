@@ -40,17 +40,17 @@ Notamos que acima da operação básica \(no caso o `if`\), temos um laço de ex
 
 Matematicamente podemos escrever esse laço de repetição utilizando um somatório, neste caso, é um somatório de 0 até o tamanho da variável que no pior caso, é o tamanho do vetor de entrada \(`data.length` ou simplesmente `n`\).
 
-![Somatório de j=0 até N de 1](./1.gif)![](/bubblesort/1.gif)
+![Somatório de j=0 até N de 1](./images/bubblesort/1.gif)
 
 Repetindo a lógica anterior, é só adicionar mais um somatório para o laço de repetição mais externo, que também repete `n` vezes.
 
-![](/bubblesort/2.gif)![Somatório de i=N até 0 vezes somatório de j=0 até N de 1](./2.gif)
+![Somatório de i=N até 0 vezes somatório de j=0 até N de 1](./images/bubblesort/2.gif)
 
 Utilizando operações com somatórios, podemos simplifica-los da seguinte forma:
 
-![Somatório de i=N até 0 vezes N](./3.gif)![](/bubblesort/3.gif)![N elevado ao quadrado](./4.gif)
+![Somatório de i=N até 0 vezes N](./images/bubblesort/3.gif)
 
-![](/bubblesort/4.gif)
+![N elevado ao quadrado](./images/bubblesort/4.gif)
 
 Dessa forma, podemos constatar que o custo deste código é `n²` ou de uma forma mais formal, a sua curva assintótica é `O(n²)` no pior caso.
 
