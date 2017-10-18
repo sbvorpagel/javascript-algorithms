@@ -1,5 +1,6 @@
 # Summary
 
+* [Javascript Algorithms](README.md)
 * [Introduction](./book/introduction.md)
 * [Algoritmos de ordenação](./book/algoritmos-de-ordenacao.md)
   * [Bubble Sort](./book/bubble-sort.md)
