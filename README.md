@@ -1,6 +1,3 @@
 # Javascript Algorithms
 
-O objetivo deste repositório é mostrar implementações de diversos algoritmos em javascript. Por ser em JavaScript, é simples de uma pessoa copiar o código e executar no próprio console do navegador e assim, poder realizar diversos testes.
-
-
-
+O objetivo deste repositório tem como objetivo demonstrar o básico sobre problemas e algoritmos utilizando uma linguagem de explicação simples e as codificações em JavaScript.
