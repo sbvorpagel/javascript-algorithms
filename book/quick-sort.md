@@ -2,7 +2,7 @@
 
 O QuickSort é um algoritmo de ordenação rápido e eficientes, por consequência, é um dos algoritmos mais utilizados. Uma curiosidade, é que ele foi inventado por Hoare para ordenar palavras de um dicionário inglês-russo.
 
-A ideia por trás deste algoritmo é reduzir o problema em subproblemas até encontrar um problema que possa ser resolvido. Por essa característica, a implementação mais comum do algoritmo é a forma recursiva.
+Este algoritmo utiliza-se da técnica de dividir e conquistar (Divide and Conquer), ou seja, a ideia por trás deste algoritmo é reduzir o problema em subproblemas até encontrar um problema que possa ser resolvido. Por essa característica, a implementação mais comum do algoritmo é a forma recursiva.
 
 ## Implementação
 
