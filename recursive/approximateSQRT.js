@@ -3,7 +3,7 @@ const aSQRT = (num, precision, intervalA, intervalB) => {
 		intervalA = 0;
 	}
 	if (intervalB === undefined) {
-		intervalB = num;
+		intervalB = num/2;
 	}
 	const m = (intervalA + intervalB) / 2;
 	if ((intervalB - intervalA) <= precision) {
